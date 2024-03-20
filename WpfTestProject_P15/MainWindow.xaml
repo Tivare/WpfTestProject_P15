@@ -13,5 +13,6 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
+        <Button FontFamily="Arial" FontSize="46" FontWeight="Bold" Click="Button_Click">Push</Button>
     </Grid>
 </Window>
